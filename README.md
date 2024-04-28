@@ -1,5 +1,5 @@
 Hello there! 👋 I'm sani salim lawan a passionate front-end developer with a keen eye for design and a love for creating immersive digital experiences.
-With [X] years of experience in the industry, I thrive on bringing ideas to life through elegant and user-friendly interfaces.
+With 3 years of experience in the industry, I thrive on bringing ideas to life through elegant and user-friendly interfaces.
 
 - 👋 Hi, I’m sani salim lawan
 - 👀 I’m interested in ...
